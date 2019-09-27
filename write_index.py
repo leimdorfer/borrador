@@ -13,7 +13,8 @@ for r, d, f in os.walk(thisdir):
                 "/Users/leimda01/Sites",
                 "https://leimdorfer.github.io/"
             )
-            urls = paths.replace(".md","")
+            urls = urls.replace(".md","")
+            file = file.replace(".md","")
             my_content_list.append(" * "+"["+file+"]("+urls+")")
 
 index_content = "My Notes"+"\n"+"============"+"\n"
