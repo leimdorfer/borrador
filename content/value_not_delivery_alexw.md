@@ -1,25 +1,27 @@
-# Notes from Alex talking about focussing on value not delivery
+# Focussing on value not delivery
 
-It's easy to shift into “get stuff done” mode.
-Core metrics remain flat
-Particularly true in News where events
-Competitors engaged in very active change towards usage and retention
-So BBC getting squeezed
-12mins on news/3hours  (on phones)
-So if we don’t shift we risk not reaching audience
+Notes from a session with Alex Watson
 
-Job also becomes about incredibly internally focussed
+It's easy to shift into “get stuff done” mode, But core metrics remain flat. This can be particularly true in News where events drive the agenda.
+Competitors for people's attention are engaged in very active change towards usage and retention, so consumption of News is getting squeezed
+On mobile phones, only 12mins out of 3 hours is spent consuming news.
+A shift in focus towards mobile is needed to reach the audience
+
+*Think hard about the data*
+Be careful about the job becoming "internally focussed"
 Try to think about value as opposed to delivery – and how metrics can help
 Ratios are a good way of illustrating gaps
-1 young person lost to the BBC every minute – something punchy
-OPR target is clear and understandable (90% under 35%…)
-From Mechanics to maintenance to F1 (faster faster)
-Velocity of learning – because can’t drive change without learning!
-Lots of detailed thinking goes into producing a simple number – e.g. deep dive on app
+Or something punchy: "1 young person lost to the BBC every minute!"
+BBC (OPR) target is clear and understandable (90% under 35% consuming content every week.)
 Loads of trawling through data – goes into a nice (simpler) deck.
-
-MVP is a process – can we engender this change
+Lots of detailed thinking goes into producing a simple number.
 Which features are the candidates for driving this number
 
+*Focus on velocity of learning*
+Move the team focus "from mechanics/maintenance to F1" (faster faster)
+But focus on "Velocity of learning" (not just velocity of delivery) – because can’t drive change without learning!
+MVP is a process – can we engender this change
+
+*Be careful about distractions*
 Don’t get dragged into doing people favours to become popular
-Don’t eyeball the product – it’s too complex.
+Don’t eyeball the product – it’s always too complex.

@@ -1,87 +1,50 @@
+Thinking Fast and Slow by Daniel Kahneman
+=======
 
-<!DOCTYPE html>
-<html lang="en-US">
-    <head>
-        <meta charset="utf-8"/>
-        <title>Thinking Fast and Slow</title>
-        <link rel="stylesheet" href="styles.css" />
-    </head>
+WTSIATI
+-------
 
-    <body>
-      <h1>Thinking Fast and Slow</h1>
+It is the consistency of the information that matters for a good story, not its completeness.
 
-      <h2>WTSIATI</h2>
-        <p>It is the consistency of the information that matters for a good story, not its completeness. </p>
+Indeed, you will often find that knowing little makes it easier to fit everything you know into a coherent pattern.
 
-        <p>Indeed, you will often find that knowing little makes it easier to fit everything you know into a coherent pattern.</p>
+*WYSIATI* facilitates the achievement of coherence and of the cognitive ease that causes us to accept a statement as true. It explains why we can think fast, and how we are able to make sense of partial information in a complex world. Much of the time, the coherent story we put together is close enough to reality to support reasonable action.
 
-        <p>WYSIATI facilitates the achievement of coherence and of the cognitive ease that causes us to accept a statement as true. It explains why we can think fast, and how we are able to make sense of partial information in a complex world. Much of the time, the coherent story we put together is close enough to reality to support reasonable action.</p>
+However, WYSIATI helps explain a long and diverse list of biases of judgement and choice, including the following among many others:
 
-        <p>However, WYSIATI helps explain a long and diverse list of biases of judgement and choice, including the following among many others:</p>
+#Overconfidence:
+Neither the quantity nor the quality of the evidence counts for much in subjective confidence. The confidence that individuals have in their beliefs depends mostly on the quality of the story they can tell about what they see, even if they see little. We often fail to allow for the possibility that our judgement is missing: what is all there is. Furthermore, our associative system tends to settle on a coherent pattern of activation and suppresses doubt and ambiguity.
 
-        <ul>
-          <li>Overconfidence: Neither the quantity nor the quality of the evidence counts for much in subjective confidence. The confidence that individuals have in their beliefs depends mostly on the quality of the story they can tell about what they see, even if they see little. We often fail to allow for the possibility that our judgement is missing: what is all there is. Furthermore, our associative system tends to settle on a coherent pattern of activation and suppresses doubt and
-        ambiguity.
-        Framing effects: Different ways of presenting the same information
-        often evoke different emotions. The statement that "the odds of sur-
-        vival one month after surgery are 90%" is more reassuring than the
-        equivalent statement that "mortality within one month of surgery is
-        10%." Similarly, cold cuts described as "90% fat-free" are more attrac-
-        tive than when they are described as "10% fat." The equivalence of the
-        alternative formulations is transparent, but an individual normally
-        sees only one formulation, and what she sees is all there is.
-        Base-rate neglect: Recall Steve, the meek and tidy soul who is often
-        believed to be a librarian. The personality description is salient and
-        vivid, and although you surely know that there are more male farmers
-        than male librarians, that statistical fact almost certainly did not come
-        to your mind when you first considered the question. What you
-        was all there was.settle on a coherent pattern of activation and suppresses doubt and
-        ambiguity.
-        Framing effects: Different ways of presenting the same information
-        often evoke different emotions. The statement that "the odds of sur-
-        vival one month after surgery are 90%" is more reassuring than the
-        equivalent statement that "mortality within one month of surgery is
-        10%." Similarly, cold cuts described as "90% fat-free" are more attrac-
-        tive than when they are described as "10% fat." The equivalence of the
-        alternative formulations is transparent, but an individual normally
-        sees only one formulation, and what she sees is all there is.
-        Base-rate neglect: Recall Steve, the meek and tidy soul who is often
-        believed to be a librarian. The personality description is salient and
-        vivid, and although you surely know that there are more male farmers
-        than male librarians, that statistical fact almost certainly did not
-        to your mind when you first considered the question. What you
-        was all there was.
+#Framing effects:
+Different ways of presenting the same information often evoke different emotions. The statement that "the odds of survival one month after surgery are 90%" is more reassuring than the equivalent statement that "mortality within one month of surgery is 10%." Similarly, cold cuts described as "90% fat-free" are more attractive than when they are described as "10% fat." The equivalence of the alternative formulations is transparent, but an individual normally sees only one formulation, and what she sees is all there is.
+
+#Base-rate neglect:
+Recall Steve, the meek and tidy soul who is often believed to be a librarian. The personality description is salient and vivid, and although you surely know that there are more male farmers than male librarians, that statistical fact almost certainly did not come to your mind when you first considered the question. What you saw was all there was. settle on a coherent pattern of activation and suppresses doubt and ambiguity.
 
 Characteristics of system 1
-generates impressions, feelings, and inclinations; when endorsed by
-system 2 these become beliefs, attitudes, and intentions
-operates automatically and quicldy, with little or no effort, and no
-sense of voluntary control
-can be programmed by System 2 to mobilize attention when a partic-
-ular pattern is detected (search)
-executes sldlled responses and generates sldlled intuitions, after ade-
-quate training
-creates a coherent pattern of activated ideas in associative memory
-links a sense of cognitive ease to illusions of truth, pleasant feelings,
-and reduced vigilance
-distinguishes the surprising from the normal
-infers and invents causes and intentions
-neglects ambiguity and suppresses doubt
-is biased to believe and confirm
-exaggerates emotional consistency (halo effect)
-focuses on existing evidence and ignores absent evidence (WYSIATI)
-generates a limited set of basic assessments
-represents sets by norms and prototypes, does not integrate
-matches intensities across scales (e.g., size to loudness)
-computes more than intended (mental shotgun)
-sometimes substitutes an easier question for a difficult one (heuristics)
-is more sensitive to changes than to states (prospect theory)
-overweights low probabilities*
-shows diminishing 'sensitivity to quantity
-responds more
-strongly to losses than to gains (loss aversion)*
-frames decision problems narrowly,
-in isolation from one another
+------
+
+  * Generates impressions, feelings, and inclinations; when endorsed by system 2 these become beliefs, attitudes, and intentions
+ * operates automatically and quickly, with little or no effort, and no sense of voluntary control
+ * can be programmed by System 2 to mobilize attention when a particular pattern is detected (search)
+ * executes sldlled responses and generates sldlled intuitions, after adequate training
+ * creates a coherent pattern of activated ideas in associative memory links a sense of cognitive ease to illusions of truth, pleasant feelings, and reduced vigilance
+ * distinguishes the surprising from the normal
+ * infers and invents causes and intentions
+ * neglects ambiguity and suppresses doubt
+ * is biased to believe and confirm
+ * exaggerates emotional consistency (halo effect)
+ * focuses on existing evidence and ignores absent evidence (WYSIATI)
+ * generates a limited set of basic assessments
+ * represents sets by norms and prototypes, does not integrate
+ * matches intensities across scales (e.g., size to loudness)
+ * computes more than intended (mental shotgun)
+ * sometimes substitutes an easier question for a difficult one (heuristics)
+ * is more sensitive to changes than to states (prospect theory)
+ * overweights low probabilities
+ * shows diminishing 'sensitivity to quantity
+ * responds more strongly to losses than to gains (loss aversion)*
+ * frames decision problems narrowly, in isolation from one another
 
 141
 AVAILABILITY, EMOTION, AND RISK
@@ -107,20 +70,14 @@ people may make and the consequences of their choices for themselves and
 for society.
 
 143-144 risk and availability cascades
+----
 
-for a teenage daughter who is late from a party will recognize the
-You may know that there 1S really (almost) nothing to worry about, ee
-cannot help images of disaster from coming to mind.
-but you
-As Slovic has d
-the amount of concern is not adequately sensitive to the
-probabilityof
-harm; you are imagining the numerator_the tragic story you saw on th
-news-and not thinldng about the denominator. Sunstein has coined
-phrase "probability neglect" to describe the pattern. The combination of
-probability neglect with the social mechanisms of availability cascades in-
-evitably leads to gross exaggeration of minor threats, sometimes with
-portant consequences.
+Anyone who has waited for a teenage daughter who is late from a party will recognize, you may know that there is really (almost) nothing to worry about, but we cannot help images of disaster from coming to mind.
+
+The amount of concern is not adequately sensitive to the probability of harm; you are imagining the numerator: the tragic story you saw on the news, and not thinking about the denominator. Sunstein has coinedthe phrase *"probability neglect"* to describe the pattern. The combination of probability neglect with the social mechanisms of *availability cascades* inevitably leads to gross exaggeration of minor threats, sometimes with important consequences.
+
+... tbc
+
 In today's world, terrorists are the most significant practitioners of the
 art of inducing availability cascades. with a few horrible exceptions such as
 9/11, the number of casualties from terror attacks is very small relative to
@@ -166,16 +123,11 @@ mean that their understanding of the world has really changed. The test of
 learning psychology is whether your understanding of situations you
 counter has changed, not whether you have learned a new fact. There is a
 deep gap between our thinldng about statistics and our thinldng about in-
-dividual cases. Statistical results with a causal interpretation have a stronger
-effect on our thinldng than noncausal information. But even compelling
-causal statistics will not change long-held beliefs or beliefs rooted in per-
+dividual cases. Statistical results with a causal interpretation have a stronger effect on our thinldng than noncausal information. But even compelling causal statistics will not change long-held beliefs or beliefs rooted in per-
 sonal experience. On the other hand, surprising individual cases.have a
 powerful impact and are a more effective tool for teaching psychology be-
 cause the incongruity must be resolved and embedded in a causal story
 That is why this book contains questions that are addressed personally to
 the reader. You are more likely to learn something by Finding surprises in
 your own behavior than by hearing surprising facts about people in
-general.</p>
-
-    </body>
-</html>
+general.
