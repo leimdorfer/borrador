@@ -1,10 +1,6 @@
-Just Notes on stuff
+My Notes
 ============
-
-The idea being that I can make quick nots in markdown and then save them to **Pocket**.
-
-  * Notes from books
-  * Notes on conferences/meetings
-  * Other
-
-[value_not_delivery_alexw](https://leimdorfer.github.io/borrador/value_not_delivery_alexw)
+Public notes folder:
+*[test.md](https://leimdorfer.github.io//borrador/content/test.md)
+*[thinking_fast_and_slow.md](https://leimdorfer.github.io//borrador/content/thinking_fast_and_slow.md)
+*[value_not_delivery_alexw.md](https://leimdorfer.github.io//borrador/content/value_not_delivery_alexw.md)
