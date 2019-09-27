@@ -46,8 +46,10 @@ Characteristics of system 1
  * responds more strongly to losses than to gains (loss aversion)*
  * frames decision problems narrowly, in isolation from one another
 
-141
-AVAILABILITY, EMOTION, AND RISK
+
+AVAILABILITY, EMOTION, AND RISK (141)
+----
+
 In his desire to wrest sole control of risk policy from experts, Slovic has
 challenged the foundation of their expertise: the idea that risk is objective.
 "Risk" does not exist "out there," independent of our minds and culture,
@@ -76,7 +78,6 @@ Anyone who has waited for a teenage daughter who is late from a party will recog
 
 The amount of concern is not adequately sensitive to the probability of harm; you are imagining the numerator: the tragic story you saw on the news, and not thinking about the denominator. Sunstein has coinedthe phrase *"probability neglect"* to describe the pattern. The combination of probability neglect with the social mechanisms of *availability cascades* inevitably leads to gross exaggeration of minor threats, sometimes with important consequences.
 
-... tbc
 
 In today's world, terrorists are the most significant practitioners of the
 art of inducing availability cascades. with a few horrible exceptions such as
